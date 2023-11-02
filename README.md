@@ -49,12 +49,6 @@ The project can be divided into three steps:
 - Part 2 : train a linear regression model (baseline)
 - Part 3 : avoid overfitting by training a regularized regression model
 
-
-## Details for certification purpose
-
-* email adress: morgane.berrod@gmail.com
-* video link: https://share.vidyard.com/watch/iybY58Zc1oaW6KQdCs2PCt?
-
 ## Authors
 
 **Morgane BERROD** - [MorganeBD](https://github.com/morganeberrod)
